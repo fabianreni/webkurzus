@@ -1,1 +1,10 @@
-Bob
+git clone
+git status
+git add . /nev
+echo szoveg >> valami.txt
+code .
+get commit -m "szoveg"
+git config --global user.email "cim" -belepes email
+git config --global user.name "nev"
+
+
