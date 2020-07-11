@@ -8,3 +8,6 @@ git config --global user.email "cim" -belepes email
 git config --global user.name "nev"
 - megjegyzeseg
 git fetch
+git pull
+git push
+
